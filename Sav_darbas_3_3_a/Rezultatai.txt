@@ -1,0 +1,28 @@
+
+      Fakultetas: Informatika
+      Studentų sąrašas
+------------------------------------------------------------------
+ Nr.  Pavardė ir vardas     Grupė            Pažymiai
+------------------------------------------------------------------
+  1   Jonaitis Jonas         IFZ 9/2    9     9     9     9     9    
+  2   Petraitis Petras       IFZ 9/1    9     7     8     9    
+  3   Jonaitytė Jonė         IFZ 9/2    5     9     7    10    
+  4   Ritaitė Rita           IFZ 9/2    9     9     5     6     5    
+  5   Jonaitis Petras        IFZ 9/1    9     9     4     4     7    
+  6   Zigmaitis Jonas        IFZ 9/3   10     9    10    10    10    
+------------------------------------------------------------------
+
+
+      Grupių vidurkiai
+ Grupė                Vidurkis
+-------------------------------
+IFZ 9/2                   7,86
+IFZ 9/1                   7,33
+IFZ 9/3                   9,80
+
+      Grupių sąrašas po rikiavimo
+ Grupė                Vidurkis
+-------------------------------
+IFZ 9/1                   7,33
+IFZ 9/2                   7,86
+IFZ 9/3                   9,80

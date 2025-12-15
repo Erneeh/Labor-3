@@ -1,0 +1,9 @@
+﻿Brie; Jonas; IF-1/8; 10 8 9 9
+Zernodifolis; BA; IF-1/8; 10 9 9 9
+Zernodifolis; BB; IF-1/8; 9 9 10 10
+Bargutis; Rime; IF-1/8; 9 9 9 9
+Spontaniskasis; Vytautaus; IF-1/9; 10 8 9 7
+Durnusis; Anupras; IF-1/9; 9 8 7 6
+Bukas; Vidas; IF-1/9; 8 9 8 9
+Petraitis; Anzelmas; IF-1/9; 8 9 9 9
+Amaskasinauskas; Šarūnas; IF-1/9; 10 9 10 9

@@ -1,0 +1,52 @@
+Lojaliu klientu sarasas
+-----------------------------------------------------
+Korteles Nr.  Sukaupta   Preke     Kiekis   Suma(eur)
+-----------------------------------------------------
+LT100         10.1       Lesalas   15       45
+LT200         11.2       Miltai    10       10.99
+LT300         12.3       Lesalas   16       40.1
+LT400         13.4       Farsas    2        9.5
+LT500         14.5       Obuoliai  15       3.2
+LT600         15.6       Knyga     1        27.5
+-----------------------------------------------------
+
+
+Prekiu sarasas
+-----------------------------------------
+Pavadinimas     Kiekis     Vnt Vid. Kaina
+-----------------------------------------
+Lesalas             31               2.75
+Miltai              10               1.10
+Farsas               2               4.75
+Obuoliai            15               0.21
+Knyga                1              27.50
+-----------------------------------------
+
+
+Vidutine virtualiu pinigu suma: 12.85 eur
+Didziausia isleista suma: 85.1 eur
+
+
+Nuolaida 10% prieinama klientams kuriu
+Minimalios islaidos: 10 eur
+Minimalus kiekis: 10 vnt
+
+
+Vidutine vieneto kaina RINKOS VIDURKIO su nuolaida
+------------------------------------------------------
+Korteles Nr.  Sukaupta   Preke     Kiekis   Kaina(eur)
+------------------------------------------------------
+LT100         10.1       Lesalas   15       2.47
+LT200         11.2       Miltai    10       0.99
+LT300         12.3       Lesalas   16       2.47
+-----------------------------------------------------
+
+
+Performuotas didejimo tvarka
+------------------------------------------------------
+Korteles Nr.  Sukaupta   Preke     Kiekis   Kaina(eur)
+------------------------------------------------------
+LT200         11.2       Miltai    10       0.99
+LT100         10.1       Lesalas   15       2.47
+LT300         12.3       Lesalas   16       2.47
+-----------------------------------------------------
